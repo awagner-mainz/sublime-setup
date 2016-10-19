@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Behat",
+		"Behat Features",
+		"BracketHighlighter",
+		"CSS3",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"ExportHtml",
+		"Gist",
+		"Git",
+		"GitGutter-Edge",
+		"Godef",
+		"GoOracle",
+		"GoSublime",
+		"HexViewer",
+		"HTML5",
+		"Inc-Dec-Value",
+		"MarkLogic",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"SPARQL",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-pylint",
+		"SublimeLinter-slim-lint",
+		"SublimeLinter-xmllint",
+		"Terminal",
+		"XQuery"
+	]
+}
