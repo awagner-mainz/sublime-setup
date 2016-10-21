@@ -4,7 +4,7 @@
 	// e.g "env": { "PATH": "$HOME/go/bin:$PATH" }
 	// in values, $PATH and ${PATH} are replaced with
 	// the corresponding environment(PATH) variable, if it exists.
-	"env": {"GOPATH": "$HOME/go", "PATH": "$GOPATH/bin:$PATH" },
+	"env": {"GOPATH": "c:/users/andrewag/go-work:$HOME/go", "PATH": "$GOPATH/bin:$PATH" },
 
   "fmt_cmd": ["goimports"],
 
@@ -28,7 +28,7 @@
 
 	"on_save": [{
 	    "cmd": "gs9o_open", "args": {
-	    "run": ["sh", 
+	    "run": ["sh",
 	        "go build . errors && go test -i && go test && go vet && golint && errcheck -blank ."],
 	    "focus_view": false
 	}}],
