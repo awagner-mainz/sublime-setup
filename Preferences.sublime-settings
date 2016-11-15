@@ -1,6 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
+    "auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
 	"copy_with_empty_selection": false,
@@ -14,6 +15,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"CSS",
 		"Vintage"
 	],
 	"rulers":
