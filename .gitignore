@@ -12,5 +12,4 @@
 !SublimeLinter/*
 !Default (Linux).sublime-keymap
 !Default (Windows).sublime-keymap
-!Godef.sublime-settings
 !Emmet.subline-settings
