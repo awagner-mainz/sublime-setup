@@ -1,0 +1,5 @@
+{
+   "cmd": ["pandoc", "--to=html5", "--standalone", "--self-contained", "--html-q-tags", "--section-divs", "--smart", "--normalize", "--toc", "-o", "$file_path/$file_base_name.html", "$file", "&&", "start", "$file_path/$file_base_name.html"],
+   "shell": "true",
+   "selector": "text.html.markdown"
+}

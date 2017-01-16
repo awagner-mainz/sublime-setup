@@ -5,6 +5,7 @@
 !.gitignore
 !Preferences.sublime-settings
 !Package Control.sublime-settings
+!Markdown.sublime-build
 
 !sftp_servers
 !sftp_servers/*
