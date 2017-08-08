@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
 		"Alignment",
 		"All Autocomplete",
 		"Anaconda",
@@ -31,7 +32,6 @@
 		"IPython Notebook",
 		"Jinja2",
 		"JsonTree",
-		"Markdown Extended",
 		"MarkLogic",
 		"Package Control",
 		"Pandoc",
