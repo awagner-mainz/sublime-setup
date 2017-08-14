@@ -27,5 +27,5 @@
 	"spell_check": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
-	"dart_sdk_path": "/ipt/dart-sdk"
+	"dart_sdk_path": "/opt/dart-sdk"
 }
