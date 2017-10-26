@@ -55,6 +55,7 @@
 		"SublimeLinter-slim-lint",
 		"SublimeLinter-xmllint",
 		"Terminal",
+		"WordCount",
 		"XQuery"
 	]
 }

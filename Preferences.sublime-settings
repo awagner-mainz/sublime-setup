@@ -5,6 +5,7 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
 	"copy_with_empty_selection": false,
+	"dart_sdk_path": "/opt/dart-sdk",
 	"default_line_ending": "unix",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"fade_fold_buttons": false,
@@ -26,6 +27,5 @@
 	"show_line_endings": true,
 	"spell_check": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
-	"dart_sdk_path": "/opt/dart-sdk"
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
 }
