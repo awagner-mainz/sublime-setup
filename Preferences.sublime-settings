@@ -17,7 +17,6 @@
 	"ignored_packages":
 	[
 		"CSS",
-		"SublimeCodeIntel",
 		"Vintage"
 	],
 	"rulers":
