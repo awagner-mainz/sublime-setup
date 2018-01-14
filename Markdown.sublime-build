@@ -1,11 +1,11 @@
 {
     "selector": "text.html.markdown",
-    "cmd": ["pandoc", "--to=html5", "--standalone", "--self-contained", "--html-q-tags", "--section-divs", "--smart", "--normalize", "-o", "$file_path/$file_base_name.html", "$file"],
+    "cmd": ["pandoc", "--to=html5", "--standalone", "--self-contained", "--html-q-tags", "--section-divs", "-o", "$file_path/$file_base_name.html", "$file"],
     "shell": "true",
 
     "variants": [
         { "name": "Run",
-    	  "cmd": ["pandoc", "--to=html5", "--standalone", "--self-contained", "--html-q-tags", "--section-divs", "--smart", "--normalize", "-o", "$file_path/$file_base_name.html", "$file", "&&", "start", "$file_path/$file_base_name.html"],
+    	  "cmd": ["pandoc", "--to=html5", "--standalone", "--self-contained", "--html-q-tags", "--section-divs", "-o", "$file_path/$file_base_name.html", "$file", "&&", "start", "$file_path/$file_base_name.html"],
     	  "shell": "true"
         }
     ]
