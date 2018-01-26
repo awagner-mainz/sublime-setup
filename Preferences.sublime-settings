@@ -3,7 +3,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"dart_sdk_path": "/opt/dart-sdk",
 	"default_line_ending": "unix",
@@ -17,6 +17,9 @@
 	"ignored_packages":
 	[
 		"CSS",
+		"Solarized Color Scheme",
+		"SublimeLinter-csslint",
+		"SublimeLinter-json",
 		"Vintage"
 	],
 	"rulers":
