@@ -5,7 +5,6 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"copy_with_empty_selection": false,
-	"dart_sdk_path": "/opt/dart-sdk",
 	"default_line_ending": "unix",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"fade_fold_buttons": false,
