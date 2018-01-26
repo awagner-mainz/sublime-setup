@@ -7,8 +7,6 @@
 !Package Control.sublime-settings
 !Markdown.sublime-build
 
-!sftp_servers
-!sftp_servers/*
 !SublimeLinter
 !SublimeLinter/*
 !Default (Linux).sublime-keymap
