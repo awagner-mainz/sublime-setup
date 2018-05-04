@@ -11,5 +11,6 @@
 !SublimeLinter/*
 !Default (Linux).sublime-keymap
 !Default (Windows).sublime-keymap
+!Elasticsearch.sublime-settings
 !Emmet.sublime-settings
 !Terminal (Windows).sublime-settings

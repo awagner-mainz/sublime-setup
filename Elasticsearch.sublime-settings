@@ -1,0 +1,9 @@
+{
+	"base_url": "http://141.5.104.130:9202",
+	"doc_type": "doc",
+	"index": "policey",
+	"user_id": "45ccd7dc-86fe-42e9-b759-23f082f4ef54",
+    "headers": {
+        "Content-Type": "application/json"
+    }
+}
