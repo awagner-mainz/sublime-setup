@@ -7,11 +7,10 @@
 !Package Control.sublime-settings
 !Markdown.sublime-build
 
-!sftp_servers
-!sftp_servers/*
 !SublimeLinter
 !SublimeLinter/*
 !Default (Linux).sublime-keymap
 !Default (Windows).sublime-keymap
+!Elasticsearch.sublime-settings
 !Emmet.sublime-settings
 !Terminal (Windows).sublime-settings
